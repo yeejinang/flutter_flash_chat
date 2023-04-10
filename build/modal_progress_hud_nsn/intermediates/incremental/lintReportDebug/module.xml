@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/yeejin/.pub-cache/hosted/pub.dev/modal_progress_hud_nsn-0.3.0/android"
+    name=":modal_progress_hud_nsn"
+    type="LIBRARY"
+    maven="com.walle.modal_progress_hud_nsn:modal_progress_hud_nsn:"
+    gradle="7.1.2"
+    buildFolder="/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn"
+    bootClassPath="/Users/yeejin/Library/Android/sdk/platforms/android-32/android.jar:/Users/yeejin/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>

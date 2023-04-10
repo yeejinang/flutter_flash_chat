@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.1.2" type="partial_results">
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="attr[android_colorBackground(R)],drawable[launch_background(U),ic_launcher_background(U)],mipmap[ic_launcher_round(D),ic_launcher_foreground(U),ic_launcher(U)],style[LaunchTheme(U),NormalTheme(U)];3^2^4,5^2^4,6^1,7^0;;;"/>
+        <location id="R.mipmap.ic_launcher_round"
+            file="${:app*debug*sourceProvider*0*resDir*0}/mipmap-anydpi-v26/ic_launcher_round.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="5"
+            endColumn="17"
+            endOffset="268"/>
+    </map>
+
+</incidents>

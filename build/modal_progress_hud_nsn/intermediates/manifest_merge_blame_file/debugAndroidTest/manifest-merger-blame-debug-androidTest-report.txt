@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.walle.modal_progress_hud_nsn.test" >
+4
+5    <uses-sdk
+5-->/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5054247664092735406.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5054247664092735406.xml:5:15-41
+7        android:targetSdkVersion="16" />
+7-->/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5054247664092735406.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5054247664092735406.xml:11:5-15:87
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5054247664092735406.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5054247664092735406.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5054247664092735406.xml:13:22-53
+13        android:label="Tests for com.walle.modal_progress_hud_nsn.test"
+13-->/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5054247664092735406.xml:15:22-85
+14        android:targetPackage="com.walle.modal_progress_hud_nsn.test" />
+14-->/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5054247664092735406.xml:12:22-83
+15
+16    <application
+16-->/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5054247664092735406.xml:7:5-9:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.6.0] /Users/yeejin/.gradle/caches/transforms-3/aa701b47cec244085d46a1a42fcc7fb9/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true" >
+19        <uses-library android:name="android.test.runner" />
+19-->/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5054247664092735406.xml:8:9-60
+19-->/Users/yeejin/Documents/42/flutter/flash-chat-sample2/build/modal_progress_hud_nsn/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5054247664092735406.xml:8:23-57
+20        <uses-library
+20-->[androidx.window:window:1.0.0-beta04] /Users/yeejin/.gradle/caches/transforms-3/542a859793ec57d6a4d40865c7efc6d9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+21            android:name="androidx.window.extensions"
+21-->[androidx.window:window:1.0.0-beta04] /Users/yeejin/.gradle/caches/transforms-3/542a859793ec57d6a4d40865c7efc6d9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+22            android:required="false" />
+22-->[androidx.window:window:1.0.0-beta04] /Users/yeejin/.gradle/caches/transforms-3/542a859793ec57d6a4d40865c7efc6d9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+23        <uses-library
+23-->[androidx.window:window:1.0.0-beta04] /Users/yeejin/.gradle/caches/transforms-3/542a859793ec57d6a4d40865c7efc6d9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+24            android:name="androidx.window.sidecar"
+24-->[androidx.window:window:1.0.0-beta04] /Users/yeejin/.gradle/caches/transforms-3/542a859793ec57d6a4d40865c7efc6d9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+25            android:required="false" />
+25-->[androidx.window:window:1.0.0-beta04] /Users/yeejin/.gradle/caches/transforms-3/542a859793ec57d6a4d40865c7efc6d9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+26    </application>
+27
+28</manifest>
